@@ -10,7 +10,7 @@ sourcePath="/Users/anishreddy/Library/Mobile Documents/com~apple~CloudDocs/vault
 destinationPath="/Users/anishreddy/Code/blog.arkr.ca/content/posts"
 
 # Set GitHub Repo
-myrepo="https://github.com/anishreddy/blog.arkr.ca.git"
+myrepo="git@github.com:Anish-Reddy-K/blog.arkr.ca.git"
 
 # Check for required commands
 for cmd in git rsync python3 hugo; do
