@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ExampleSite</title>
-    <link>https://examplesite.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>new blog 4</title>
-      <link>https://examplesite.com/posts/blog-4/</link>
+      <title>new blog 5 ahaha</title>
+      <link>http://localhost:1313/posts/blog-5/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/posts/blog-4/</guid>
-      <description>&lt;h4 id=&#34;fgdsfgdfs-fg&#34;&gt;fgdsfgdfs fg&lt;/h4&gt;
+      <guid>http://localhost:1313/posts/blog-5/</guid>
+      <description>&lt;h4 id=&#34;fgdsfgdfs-fg-adasdasdasdasdasd&#34;&gt;fgdsfgdfs fg adasdasdasdasdasd&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;HUGO&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;obsidian -&amp;gt; hugo -&amp;gt; github -&amp;gt; hostinger&lt;/li&gt;
 &lt;li&gt;obsidian -&amp;gt; hugo -&amp;gt; github -&amp;gt; hostinger&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;obsidian -&amp;gt; hugo -&amp;gt; github -&amp;gt; hostinger&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Screenshot 2025-12-02 at 1.20.55 AM&#34; loading=&#34;lazy&#34; src=&#34;https://examplesite.com/images/Screenshot%202025-12-02%20at%201.20.55%20AM.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Screenshot 2025-12-02 at 1.20.55 AM&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/Screenshot%202025-12-02%20at%201.20.55%20AM.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

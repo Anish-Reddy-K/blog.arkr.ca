@@ -1,12 +1,12 @@
 ---
-title: new blog 4
+title: new blog 5 ahaha
 date: 2025-12-02
 draft: false
 tags:
   - test
   - blog
 ---
-#### fgdsfgdfs fg
+#### fgdsfgdfs fg adasdasdasdasdasd
 
 **HUGO**
 - obsidian -> hugo -> github -> hostinger
