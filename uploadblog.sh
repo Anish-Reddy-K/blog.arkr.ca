@@ -7,7 +7,7 @@ cd "$SCRIPT_DIR"
 
 # Set variables for Obsidian to Hugo copy
 sourcePath="/Users/anishreddy/Library/Mobile Documents/com~apple~CloudDocs/vault/posts"
-destinationPath="/Users/anishreddy/Code/blog.arkr.ca/content/posts"
+destinationPath="/Users/anishreddy/Code/blog.arkr.ca/content/"
 
 # Set GitHub Repo
 myrepo="git@github.com:Anish-Reddy-K/blog.arkr.ca.git"
