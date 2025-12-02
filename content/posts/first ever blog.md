@@ -1,5 +1,5 @@
 ---
-title: first blog with crazy blog pipeline
+title: first blog with crazy blog pipeline as
 date: 2025-12-02
 draft: false
 tags:

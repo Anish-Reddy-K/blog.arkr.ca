@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "http://blog.arkr.ca/"
+title: Anish Reddy's Blog
 pagination:
   paperSize: 5
 theme: PaperMod
