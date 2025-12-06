@@ -1,7 +1,7 @@
 baseURL: "http://blog.arkr.ca/"
-title: Anish Reddy's Blog
+title: Anish's Blog
 pagination:
-  paperSize: 5
+  pagerSize: 8
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -14,22 +14,22 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  env: production
+  title: Anish's Blog
+  description: "Anish's Blog"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Anish Reddy
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark
   disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -51,7 +51,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "blog.arkr.ca"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -72,16 +72,18 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hello, I'm Anish"
     Content: Welcome to my blog
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/anish-reddy-k/"
+    - name: email
+      url: "mailto:anishreddy3456@gmail.com"
+    - name: x
+      url: "https://x.com/"
 
   analytics:
     google:
@@ -97,8 +99,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/Anish-Reddy-K/blog.arkr.ca/content" # TODO: Change this to the actual path to the repo
+    Text: "Suggest Changes"
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -122,11 +124,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: arkr.ca
+      name: arkr.ca
+      url: https://arkr.ca
       weight: 30
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
